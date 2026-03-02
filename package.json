@@ -9,6 +9,7 @@
     "dotenv": "^16.0.0"
   },
   "devDependencies": {
-    "@playwright/test": "^1.40.0"
+    "@playwright/test": "^1.40.0",
+    "allure-playwright": "^3.5.0"
   }
 }
