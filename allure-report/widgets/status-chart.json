@@ -1,1 +1,0 @@
-[{"uid":"c41433e97e2198ce","name":"Register new user with random email and login","time":{"start":1772431371347,"stop":1772431379070,"duration":7723},"status":"passed","severity":"normal"},{"uid":"94146c957ab3bb64","name":"E2E: Login and Complete Purchase","time":{"start":1772431371345,"stop":1772431383720,"duration":12375},"status":"passed","severity":"normal"}]
